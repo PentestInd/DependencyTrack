@@ -4,3 +4,6 @@ Run following command with syft --> syft packages justinjustin/poc -o cyclonedx 
 Upload sbom file into dependencyTrack and refresh the page
 Make sure you enabled OSSIndex so that all vulnerabilities will be detected
 Check for audit vulnerabilities
+
+CycloneDX details
+https://docs.google.com/document/d/1biwYXrtoRc_LF7Pw10TO2TGIhlM6jwkDG23nc9M_RiE/edit#
